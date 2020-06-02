@@ -1,8 +1,4 @@
-# four-card-feature-section
-
-[Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK) challenge allowing you to improve your skills in a real-life workflow. Trying out Vue
-
-# four_card_feature_section
+# four-card-feature-section [Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK)
 
 ## Project setup
 

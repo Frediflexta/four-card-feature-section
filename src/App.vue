@@ -1,9 +1,17 @@
 <template>
-  <div>Root</div>
+  <div>
+    <LandingPage />
+  </div>
 </template>
 
 <script>
-export default {}
+import LandingPage from '@/components/LandingPage.vue'
+
+export default {
+  components: {
+    LandingPage
+  }
+}
 </script>
 
 <style scoped></style>
